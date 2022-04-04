@@ -1,0 +1,5 @@
+a=int(input("Enter one Number:"))
+b=int(input("Enter two Number:"))
+c=int(input("Enter three Number:"))
+z=max(a,b,c)
+print("Maximum value is",z)
